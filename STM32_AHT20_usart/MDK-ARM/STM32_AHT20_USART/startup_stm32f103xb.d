@@ -1,0 +1,1 @@
+stm32_aht20_usart\startup_stm32f103xb.o: startup_stm32f103xb.s

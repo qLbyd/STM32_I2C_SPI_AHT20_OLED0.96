@@ -1,0 +1,10 @@
+stm32_aht20_usart\myi2c.o: ..\Core\Src\MYI2C.c
+stm32_aht20_usart\myi2c.o: ../Core/Inc/MYI2C.h
+stm32_aht20_usart\myi2c.o: D:\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+stm32_aht20_usart\myi2c.o: .\RTE\_STM32_AHT20_USART\RTE_Components.h
+stm32_aht20_usart\myi2c.o: ../Drivers/CMSIS/Include/core_cm3.h
+stm32_aht20_usart\myi2c.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32_aht20_usart\myi2c.o: ../Drivers/CMSIS/Include/cmsis_version.h
+stm32_aht20_usart\myi2c.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stm32_aht20_usart\myi2c.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32_aht20_usart\myi2c.o: D:\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
